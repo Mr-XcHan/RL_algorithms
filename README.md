@@ -19,4 +19,4 @@ Basic reinforcement learning algorithm.
     3、PPO
     ...
 
-### Thanks for your support
+### Thanks for your support!
