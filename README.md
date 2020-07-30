@@ -1,5 +1,5 @@
 # RL_algorithms
-Basic reinforcement learning algorithm, tensorflow 2.X
+Basic reinforcement learning algorithm (in python and tensorflow 2.X)
 
 
 # Overview
