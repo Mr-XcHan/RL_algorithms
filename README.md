@@ -10,10 +10,13 @@ Basic reinforcement learning algorithm, tensorflow 2.0
 # Ongoing Work
 
   Policy-based RL algorithms.
-  such as : &nbsp;
-    1、REINFORCE
-    2、DDPG
-    3、PPO
+  such as :  
+  
+   1、REINFORCE
+   
+   2、DDPG
+   
+   3、PPO
     ...
 
 ### Thanks for your support!
