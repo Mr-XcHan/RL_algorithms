@@ -1,5 +1,5 @@
 # RL_algorithms
-Basic reinforcement learning algorithm.
+Basic reinforcement learning algorithm, tensorflow 2.0
 
 
 # Overview
@@ -10,12 +10,9 @@ Basic reinforcement learning algorithm.
 # Ongoing Work
 
   Policy-based RL algorithms.
-  such as :
-  
+  such as : &nbsp；
     1、REINFORCE
-    
     2、DDPG
-    
     3、PPO
     ...
 
