@@ -10,13 +10,13 @@ Basic reinforcement learning algorithm (in python and tensorflow 2.X)
 # Ongoing Work
 
   Policy-based RL algorithms.
-  such as :  
-  
-   1、REINFORCE
+  such as :     
+   1、PPO
    
-   2、DDPG
+   2、D4PG
    
-   3、PPO
+   3、SAC
+   
     ...
 
 ### Thanks for your support!
