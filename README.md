@@ -5,7 +5,7 @@ Basic reinforcement learning algorithm (in python and tensorflow 2.X)
 # Overview
 
   there are simple tutorial of deep reinforcement learning, which includes simple demos and detailed model implementations to help beginners to understand the reinforcement learning.
-  Certainly，these are the basic algorithm ideas and frameworks. But it's enough for you to understand its thoughts.
+  Certainly，these are the basic algorithm ideas and frameworks. But it's enough for you to understand.
   
 # Ongoing Work
 
